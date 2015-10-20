@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="app_MSC_1_T2" max_length="40" name="sn_app_msc_1_app_msc_1_t2" type="collection">
+        <element label="name2" max_length="40" name="name2" type="string"/>
+    </element>
+</database>
